@@ -1,2 +1,2 @@
-# C-Primer-Plus-5th-Edition-Source-Code
-C Primer Plus 5th示例代码与习题代码
+# C-Primer-Plus-6th-Edition-Source-Code
+modified from C Primer Plus 5th edition source code
